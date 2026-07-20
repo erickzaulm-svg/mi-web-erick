@@ -7,6 +7,8 @@ export default function Home() {
       <div className="bg-white/50 rounded-xl p-4 mb-4 shadow-inner border border-white/40 text-sm text-cyan-900">
         <p className="mb-2"><strong>¡Hola!</strong> Aquí iré documentando mis proyectos, código y cosas que me gustan.</p>
         <p>Actualmente enfocado en desarrollo con <strong>React, Next.js y TypeScript</strong>.</p>
+        <p>En esta web veras mas que nada todo lo que me gusta y apasiona, fue hecha por y para mi, por pura diversion</p>
+        <p>si te gusta lo que ves Bienvenido seas :p</p>
       </div>
 
       <h3 className="font-bold text-cyan-800 mb-2 mt-6 drop-shadow-sm">Proyectos Recientes</h3>
